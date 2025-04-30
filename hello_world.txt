@@ -1,1 +1,2 @@
 Hello world! I was told to add some text here.
+Okay, day two of trying to learn what git is and, to be honest, I'm following allowing with the instructions but I absolutely have no clue what all these terms mean or what exactly I'm doing T^T
